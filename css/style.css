@@ -72,7 +72,9 @@ body {
   line-height: 1.143;
   letter-spacing: 0.02em;
 }
-
+.navigation-link{
+  color: var(--main-color);
+}
 .header-phone,
 .header-email {
   color: var(--fourth-color);
